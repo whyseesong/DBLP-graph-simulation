@@ -1,0 +1,35 @@
+﻿  graph_simulation.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2372): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2372): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate'
+  C:\boost_1_63_0\boost/algorithm/string/detail/classification.hpp(102): note: see reference to function template instantiation '_OutIt *std::copy<const char*,char*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _InIt=const char *
+          ]
+  C:\boost_1_63_0\boost/algorithm/string/classification.hpp(206): note: see reference to function template instantiation 'boost::algorithm::detail::is_any_ofF<char>::is_any_ofF<boost::iterator_range<const char *>>(const RangeT &)' being compiled
+          with
+          [
+              RangeT=boost::iterator_range<const char *>
+          ]
+  C:\boost_1_63_0\boost/algorithm/string/classification.hpp(206): note: see reference to function template instantiation 'boost::algorithm::detail::is_any_ofF<char>::is_any_ofF<boost::iterator_range<const char *>>(const RangeT &)' being compiled
+          with
+          [
+              RangeT=boost::iterator_range<const char *>
+          ]
+  graph_simulation.cpp(236): note: see reference to function template instantiation 'boost::algorithm::detail::is_any_ofF<char> boost::algorithm::is_any_of<char[3]>(const RangeT (&))' being compiled
+          with
+          [
+              RangeT=char [3]
+          ]
+  C:\boost_1_63_0\boost/bind/placeholders.hpp(54): note: see reference to class template instantiation 'boost::arg<9>' being compiled
+  C:\boost_1_63_0\boost/bind/placeholders.hpp(53): note: see reference to class template instantiation 'boost::arg<8>' being compiled
+  C:\boost_1_63_0\boost/bind/placeholders.hpp(52): note: see reference to class template instantiation 'boost::arg<7>' being compiled
+  C:\boost_1_63_0\boost/bind/placeholders.hpp(51): note: see reference to class template instantiation 'boost::arg<6>' being compiled
+  C:\boost_1_63_0\boost/bind/placeholders.hpp(50): note: see reference to class template instantiation 'boost::arg<5>' being compiled
+  C:\boost_1_63_0\boost/bind/placeholders.hpp(49): note: see reference to class template instantiation 'boost::arg<4>' being compiled
+  C:\boost_1_63_0\boost/bind/placeholders.hpp(48): note: see reference to class template instantiation 'boost::arg<3>' being compiled
+  C:\boost_1_63_0\boost/bind/placeholders.hpp(47): note: see reference to class template instantiation 'boost::arg<2>' being compiled
+  C:\boost_1_63_0\boost/bind/placeholders.hpp(46): note: see reference to class template instantiation 'boost::arg<1>' being compiled
+  graph_simulation.vcxproj -> C:\Users\오영택\Desktop\graph_v20\x64\Debug\graph_simulation.exe
+  graph_simulation.vcxproj -> C:\Users\오영택\Desktop\graph_v20\x64\Debug\graph_simulation.pdb (Full PDB)

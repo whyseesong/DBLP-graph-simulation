@@ -1,0 +1,51 @@
+A||J||2013
+Markus Kuckelhaus||Jorg Baus||2013
+Carsten Magerkurth||Jorg Baus||2013
+Michael Schmitz||Boris Brandherm||2013
+Michael Schmitz||Jorg Neidig||2013
+Michael Schmitz||Stefanie Schachtl||2013
+Michael Schmitz||Matthias Schuster||2013
+Boris Brandherm||Jorg Neidig||2013
+Boris Brandherm||Stefanie Schachtl||2013
+Boris Brandherm||Matthias Schuster||2013
+Jorg Neidig||Stefanie Schachtl||2013
+Jorg Neidig||Matthias Schuster||2013
+Stefanie Schachtl||Matthias Schuster||2013
+Yoshihiko Hayashi||Thierry Declerck||2011
+Yoshihiko Hayashi||Nicoletta Calzolari||2011
+Yoshihiko Hayashi||Monica Monachini||2011
+Yoshihiko Hayashi||Claudia Soria||2011
+Yoshihiko Hayashi||Paul Buitelaar||2011
+Thierry Declerck||Nicoletta Calzolari||2011
+Thierry Declerck||Monica Monachini||2011
+Thierry Declerck||Claudia Soria||2011
+Thierry Declerck||Paul Buitelaar||2011
+Nicoletta Calzolari||Monica Monachini||2011
+Nicoletta Calzolari||Claudia Soria||2011
+Nicoletta Calzolari||Paul Buitelaar||2011
+Monica Monachini||Claudia Soria||2011
+Monica Monachini||Paul Buitelaar||2011
+Claudia Soria||Paul Buitelaar||2011
+Anthony Jameson||Juergen Kiefer||2011
+Anthony Jameson||Christian A. Muller||2011
+Anthony Jameson||Barbara Gro©¬mann-Hutter||2011
+Anthony Jameson||Frank Wittig||2011
+Anthony Jameson||Ralf Rummer||2011
+Juergen Kiefer||Christian A. Muller||2011
+Juergen Kiefer||Barbara Gro©¬mann-Hutter||2011
+Juergen Kiefer||Frank Wittig||2011
+Juergen Kiefer||Ralf Rummer||2011
+Christian A. Muller||Barbara Gro©¬mann-Hutter||2011
+Christian A. Muller||Frank Wittig||2011
+Christian A. Muller||Ralf Rummer||2011
+Barbara Gro©¬mann-Hutter||Frank Wittig||2011
+Barbara Gro©¬mann-Hutter||Ralf Rummer||2011
+Frank Wittig||Ralf Rummer||2011
+Raz Lin||Sarit Kraus||2012
+Iryna Gurevych||Robert Porzel||2006
+Jan Alexandersson||Tilman Becker||2006
+Jan Alexandersson||Norbert Pfleger||2006
+Tilman Becker||Norbert Pfleger||2006
+Gerrit Meixner||Alexander Kroner||2013
+Gerrit Meixner||Gerrit Kahl||2013
+Alexander Kroner||Gerrit Kahl||2013

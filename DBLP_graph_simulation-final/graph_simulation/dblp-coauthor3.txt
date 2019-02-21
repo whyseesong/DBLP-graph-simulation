@@ -1,0 +1,50 @@
+Christoph Benzmuller||Jorg H. Siekmann||2011
+Marvin Schiller||Jorg H. Siekmann||2011
+Andrew Marriott||Simon Beard||2004
+Fiorella de Rosis||Berardina De Carolis||2004
+Fiorella de Rosis||Valeria Carofiglio||2004
+Fiorella de Rosis||Sebastiano Pizzutilo||2004
+Berardina De Carolis||Valeria Carofiglio||2004
+Berardina De Carolis||Sebastiano Pizzutilo||2004
+Valeria Carofiglio||Sebastiano Pizzutilo||2004
+Jorg Neidig||Thomas Grosch||2013
+Jorg Neidig||Ulrike Heim||2013
+Thomas Grosch||Ulrike Heim||2013
+Ben Goertzel||Cassio Pennachin||2007
+Antje Schweitzer||Norbert Braunschweiler||2006
+Antje Schweitzer||Grzegorz Dogil||2006
+Antje Schweitzer||Tanja Klankert||2006
+Antje Schweitzer||Bernd Mobius||2006
+Antje Schweitzer||Gregor Mohler||2006
+Antje Schweitzer||Edmilson Morais||2006
+Antje Schweitzer||Bettina Sauberlich||2006
+Antje Schweitzer||Matthias Thomae||2006
+Norbert Braunschweiler||Grzegorz Dogil||2006
+Norbert Braunschweiler||Tanja Klankert||2006
+Norbert Braunschweiler||Bernd Mobius||2006
+Norbert Braunschweiler||Gregor Mohler||2006
+Norbert Braunschweiler||Edmilson Morais||2006
+Norbert Braunschweiler||Bettina Sauberlich||2006
+Norbert Braunschweiler||Matthias Thomae||2006
+Grzegorz Dogil||Tanja Klankert||2006
+Grzegorz Dogil||Bernd Mobius||2006
+Grzegorz Dogil||Gregor Mohler||2006
+Grzegorz Dogil||Edmilson Morais||2006
+Grzegorz Dogil||Bettina Sauberlich||2006
+Grzegorz Dogil||Matthias Thomae||2006
+Tanja Klankert||Bernd Mobius||2006
+Tanja Klankert||Gregor Mohler||2006
+Tanja Klankert||Edmilson Morais||2006
+Tanja Klankert||Bettina Sauberlich||2006
+Tanja Klankert||Matthias Thomae||2006
+Bernd Mobius||Gregor Mohler||2006
+Bernd Mobius||Edmilson Morais||2006
+Bernd Mobius||Bettina Sauberlich||2006
+Bernd Mobius||Matthias Thomae||2006
+Gregor Mohler||Edmilson Morais||2006
+Gregor Mohler||Bettina Sauberlich||2006
+Gregor Mohler||Matthias Thomae||2006
+Edmilson Morais||Bettina Sauberlich||2006
+Edmilson Morais||Matthias Thomae||2006
+Bettina Sauberlich||Matthias Thomae||2006
+Markus Kuckelhaus||Carsten Magerkurth||2013

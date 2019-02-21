@@ -1,0 +1,50 @@
+Robert Ne©¬elrath||Frank Lehmann||2013
+Jan Alexandersson||Norbert Pfleger||2006
+Andre Berton||Dirk Buhler||2006
+Andre Berton||Wolfgang Minker||2006
+Dirk Buhler||Wolfgang Minker||2006
+Stephan Grashey||Matthias Schuster||2006
+Johannes Furnkranz||Dragan Gamberger||2012
+Johannes Furnkranz||Nada Lavrac||2012
+Dragan Gamberger||Nada Lavrac||2012
+Thomas Rist||Elisabeth Andre||2004
+Thomas Rist||Stephan Baldes||2004
+Thomas Rist||Patrick Gebhard||2004
+Thomas Rist||Martin Klesen||2004
+Thomas Rist||Michael Kipp||2004
+Thomas Rist||Peter Rist||2004
+Thomas Rist||Markus Schmitt 0002||2004
+Elisabeth Andre||Stephan Baldes||2004
+Elisabeth Andre||Patrick Gebhard||2004
+Elisabeth Andre||Martin Klesen||2004
+Elisabeth Andre||Michael Kipp||2004
+Elisabeth Andre||Peter Rist||2004
+Elisabeth Andre||Markus Schmitt 0002||2004
+Stephan Baldes||Patrick Gebhard||2004
+Stephan Baldes||Martin Klesen||2004
+Stephan Baldes||Michael Kipp||2004
+Stephan Baldes||Peter Rist||2004
+Stephan Baldes||Markus Schmitt 0002||2004
+Patrick Gebhard||Martin Klesen||2004
+Patrick Gebhard||Michael Kipp||2004
+Patrick Gebhard||Peter Rist||2004
+Patrick Gebhard||Markus Schmitt 0002||2004
+Martin Klesen||Michael Kipp||2004
+Martin Klesen||Peter Rist||2004
+Martin Klesen||Markus Schmitt 0002||2004
+Michael Kipp||Peter Rist||2004
+Michael Kipp||Markus Schmitt 0002||2004
+Peter Rist||Markus Schmitt 0002||2004
+Yue Suo||Yuanchun Shi||2011
+Yue Suo||Toru Ishida||2011
+Yuanchun Shi||Toru Ishida||2011
+Daisuke Morita||Toru Ishida||2011
+Roberto Valenti||Nicu Sebe||2008
+Roberto Valenti||Theo Gevers||2008
+Roberto Valenti||Ira Cohen||2008
+Nicu Sebe||Theo Gevers||2008
+Nicu Sebe||Ira Cohen||2008
+Theo Gevers||Ira Cohen||2008
+Noam Tractinsky||Eleanor Eytam||2012
+Jorg Muller||Keith Cheverst||2012
+Christoph Benzmuller||Marvin Schiller||2011

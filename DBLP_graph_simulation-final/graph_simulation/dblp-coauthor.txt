@@ -1,0 +1,62 @@
+A||B||2017
+A|C||2017
+B||E||2017
+B||F||2017
+C||D||2017
+C||G||2017
+E||I||2017
+F||J||2017
+G||H||2017
+H||K||2017
+I||K||2017
+J||K||2017
+Peter M. Roth||Horst Bischof||2008
+Keith Cheverst||Faisal Taher||2012
+Keith Cheverst||Matthew Fisher||2012
+Keith Cheverst||Daniel Fitton||2012
+Keith Cheverst||Nick Taylor 0002||2012
+Faisal Taher||Matthew Fisher||2012
+Faisal Taher||Daniel Fitton||2012
+Faisal Taher||Nick Taylor 0002||2012
+Matthew Fisher||Daniel Fitton||2012
+Matthew Fisher||Nick Taylor 0002||2012
+Daniel Fitton||Nick Taylor 0002||2012
+Andrea Weber||Matthew W. Crocker||2011
+Andrea Weber||Pia Knoeferle||2011
+Matthew W. Crocker||Pia Knoeferle||2011
+Sven Horn||Alexander Claus||2013
+Sven Horn||Jorg Neidig||2013
+Sven Horn||Bruno Kiesel||2013
+Sven Horn||Thorbj©ªrn Hansen||2013
+Sven Horn||Jens Haupert||2013
+Alexander Claus||Jorg Neidig||2013
+Alexander Claus||Bruno Kiesel||2013
+Alexander Claus||Thorbj©ªrn Hansen||2013
+Alexander Claus||Jens Haupert||2013
+Jorg Neidig||Bruno Kiesel||2013
+Jorg Neidig||Thorbj©ªrn Hansen||2013
+Jorg Neidig||Jens Haupert||2013
+Bruno Kiesel||Thorbj©ªrn Hansen||2013
+Bruno Kiesel||Jens Haupert||2013
+Thorbj©ªrn Hansen||Jens Haupert||2013
+Marc Sei©¬ler||Peter Stephan||2013
+Marc Sei©¬ler||Jochen Schlick||2013
+Marc Sei©¬ler||Ines Dahmann||2013
+Peter Stephan||Jochen Schlick||2013
+Peter Stephan||Ines Dahmann||2013
+Jochen Schlick||Ines Dahmann||2013
+Hozumi Tanaka||Takenobu Tokunaga||2004
+Hozumi Tanaka||Yusuke Shinyama||2004
+Takenobu Tokunaga||Yusuke Shinyama||2004
+Alexander Kroner||Jens Haupert||2013
+Alexander Kroner||Jose de Gea Fernandez||2013
+Alexander Kroner||Rainer Steffen||2013
+Alexander Kroner||Christian Kleegrewe||2013
+Alexander Kroner||Martin Schneider||2013
+Jens Haupert||Jose de Gea Fernandez||2013
+Jens Haupert||Rainer Steffen||2013
+Jens Haupert||Christian Kleegrewe||2013
+Jens Haupert||Martin Schneider||2013
+Jose de Gea Fernandez||Rainer Steffen||2013
+Jose de Gea Fernandez||Christian Kleegrewe||2013
+Jose de Gea Fernandez||Martin Schneider||2013

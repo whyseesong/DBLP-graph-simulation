@@ -1,0 +1,41 @@
+A||YTYT||2017
+A||SDSD||2017
+A||zxczxc||2017
+Alin Deutsch||Mary F. Fernandez||1998
+Alin Deutsch||Daniela Florescu||1998
+Alin Deutsch||Alon Y. Levy||1998
+Alin Deutsch||Dan Suciu||1998
+Mary F. Fernandez||Daniela Florescu||1998
+Mary F. Fernandez||Alon Y. Levy||1998
+Mary F. Fernandez||Dan Suciu||1998
+Daniela Florescu||Alon Y. Levy||1998
+Daniela Florescu||Dan Suciu||1998
+Alon Y. Levy||Dan Suciu||1998
+Roy T. Fielding||Henrik Frystyk Nielsen||1999
+Roy T. Fielding||Tim Berners-Lee||1999
+Henrik Frystyk Nielsen||Tim Berners-Lee||1999
+Andre Berton||Alfred Kaltenmeier||2006
+Andre Berton||Udo Haiber||2006
+Andre Berton||Olaf Schreiner||2006
+Alfred Kaltenmeier||Udo Haiber||2006
+Alfred Kaltenmeier||Olaf Schreiner||2006
+Udo Haiber||Olaf Schreiner||2006
+Padraig Cunningham||Matthieu Cord||2008
+Padraig Cunningham||Sarah Jane Delany||2008
+Matthieu Cord||Sarah Jane Delany||2008
+Axel Horndasch||Horst Rapp||2006
+Axel Horndasch||Hans Rottger||2006
+Horst Rapp||Hans Rottger||2006
+Hubert D. Zimmer||Stefan Munzer||2011
+Hubert D. Zimmer||Katja Umla-Runge||2011
+Stefan Munzer||Katja Umla-Runge||2011
+Marshall R. Mayberry||Matthew W. Crocker||2011
+Hubert D. Zimmer||Stefan Munzer||2011
+Hubert D. Zimmer||Jorg Baus||2011
+Stefan Munzer||Jorg Baus||2011
+Jorg Neidig||Jorg Prei©¬inger||2013
+Boris Brandherm||Michael Schmitz||2013
+Boris Brandherm||Robert Ne©¬elrath||2013
+Boris Brandherm||Frank Lehmann||2013
+Michael Schmitz||Robert Ne©¬elrath||2013
+Michael Schmitz||Frank Lehmann||2013
